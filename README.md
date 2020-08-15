@@ -21,4 +21,31 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cricketer
 
+<p align="center">
+<a href="https://twitter.com/singhprashant44">
+  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/singhprashant99">
+  <img align="center" alt="Prashant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/singhprashant1">
+  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://instagram.com/singhprashant99/">
+  <img align="center" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+<br/>
+<br/>
+</p>
+
+
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=singhprashant1&show_icons=true&cache_seconds=86400)
