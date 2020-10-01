@@ -12,7 +12,7 @@
 </p>
 
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on Flutter <img src = "https://static.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" align = "right" height =300 width = 400>
 - 🌱 I’m currently learning Java and Python
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Firebase
